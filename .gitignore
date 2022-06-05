@@ -1,0 +1,21 @@
+# Compiled class file
+*.class
+
+# Eclipse project file
+.settings/
+.classpath
+.project
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.vsix
+
+# OS
+.DS_Store
